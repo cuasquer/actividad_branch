@@ -160,3 +160,17 @@
   --bs-btn-disabled-bg: #1abc9c;
   --bs-btn-disabled-border-color: #1abc9c;
 }
+a:link {
+  color: #19bc9b;
+
+}
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #2c3d4f;
+  color: #fff;
+}
+
+.copyright {
+  background-color: #1a252f;
+}
